@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning php.
 Consider me a Frankenstein-coder: I put together code and when it works i hope that it doesn't kill me 😄
 - 💞️ I’m looking to collaborate on a GAME-simulation app
-- 📫 How to reach me github@faridbouchdak.com
+- 📫 How to reach me: https://async.com/farid
 
 <!---
 faridbouchdak/faridbouchdak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
